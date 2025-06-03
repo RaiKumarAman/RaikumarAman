@@ -26,11 +26,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=RaikumarAman&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=RaikumarAman&icon=6&color=2)](https://visitcount.itsvg.in)
 
 
 <!--
